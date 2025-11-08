@@ -136,6 +136,10 @@ domain:live.eu-west1.picarto.tv
 domain:live.us-west1.picarto.tv
 domain:live.us-east1.picarto.tv
 
+# Pixiv
+domain:asset.booth.pm
+domain:pximg.net
+
 # Pony Land
 domain:api.pony.land
 
