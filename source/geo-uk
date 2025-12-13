@@ -4,6 +4,7 @@
 # BBC
 domain:api.bbc.com
 domain:bbc.co.uk
+domain:bbc.in
 domain:bbc-reporting-api.app
 domain:emp.bbci.co.uk
 domain:iplayer-web.files.bbci.co.uk

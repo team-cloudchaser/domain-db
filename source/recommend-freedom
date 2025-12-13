@@ -21,6 +21,15 @@ domain:static.files.bbci.co.uk
 # BFM Play
 domain:static-cdn.tv.sfr.net
 
+# Bing
+domain:r.bing.com
+domain:th.bing.com
+domain:tse1.explicit.bing.net
+domain:tse1.mm.bing.net
+domain:tse2.mm.bing.net
+domain:tse3.mm.bing.net
+domain:tse4.mm.bing.net
+
 # Blaze
 domain:blazeuk.s3.eu-west-2.amazonaws.com
 
@@ -58,6 +67,9 @@ domain:cdn.discordapp.com
 domain:images-ext-1.discordapp.net
 domain:media.discordapp.net
 domain:status.discord.com
+
+# DuckDuckGo
+domain:external-content.duckduckgo.com
 
 # Epic Games
 domain:cdn1.epicgames.com
@@ -143,6 +155,11 @@ domain:pximg.net
 # Pony Land
 domain:api.pony.land
 
+# Qwant
+domain:s.qwant.com
+domain:s1.qwant.com
+domain:s2.qwant.com
+
 # Radio Télévision Luxembourg
 domain:images.rtl.fr
 domain:static.rtl.fr
@@ -181,6 +198,9 @@ domain:steamusercontent.com
 # STV
 domain:images.stv.tv
 
+# Swisscows
+domain:cdn.swisscows.com
+
 # TF1
 domain:photos.tf1.fr
 
@@ -208,6 +228,9 @@ domain:wbx2.com
 
 # Webflow
 domain:cdn.prod.website-files.com
+
+# Wikimedia
+domain:upload.wikimedia.org
 
 # YouTube
 domain:i.ytimg.com
