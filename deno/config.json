@@ -16,7 +16,7 @@
 	"nl": ["geo-nl"],
 	"no": ["geo-no"],
 	"condensed": ["oisd-basic", "1hosts-lite", "bp-ransomware", "bp-scam"],
-	"recommend-tor": ["recommend-tor"],
-	"recommend-freedom": ["recommend-freedom"],
-	"recommend-same-region": ["recommend-same-region"]
+	"list-tor": ["list-tor"],
+	"list-freedom": ["list-freedom"],
+	"list-same-region": ["list-adjacent"]
 }

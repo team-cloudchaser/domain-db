@@ -2,4 +2,5 @@
 *.swp
 .zcompdump
 intermediate/*
+data/*
 source/*.list
