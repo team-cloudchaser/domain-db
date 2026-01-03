@@ -129,6 +129,32 @@ domain:img.joyn.de
 domain:p7s1video.net
 domain:vod-prd.s.joyn.de
 
+# Linux - Alpine Linux
+domain:dl-cdn.alpinelinux.org
+
+# Linux - Debian
+domain:cdimage.debian.org
+domain:deb.debian.org
+
+# Linux - openSUSE
+domain:cdn.opensuse.org
+domain:download.opensuse.org
+
+# Linux - OpenMandriva
+domain:abf-downloads.openmandriva.org
+domain:file-store.openmandriva.org
+
+# Linux - RHEL
+domain:mirrors.almalinux.org
+domain:repo.almalinux.org
+domain:dl.rockylinux.org
+domain:download.rockylinux.org
+domain:mirrors.rockylinux.org
+domain:elrepo.org
+domain:download.copr.fedorainfracloud.org
+domain:dl.fedoraproject.org
+domain:mirrors.rpmfusion.org
+
 # Localize API
 domain:cdn.localizeapi.com
 
@@ -142,6 +168,20 @@ domain:images.molotov.tv
 
 # NRJ
 domain:img.nrj.fr
+
+# OCI - Docker
+domain:dseasb33srnrn.cloudfront.net
+domain:index.docker.io
+domain:production.cloudflare.docker.com
+domain:registry.docker.io
+domain:registry-1.docker.io
+domain:registry-2.docker.io
+
+# OCI - Quay
+domain:cdn.quay.io
+domain:cdn01.quay.io
+domain:cdn02.quay.io
+domain:cdn03.quay.io
 
 # Picarto
 domain:live.eu-west1.picarto.tv
