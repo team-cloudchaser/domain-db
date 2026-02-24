@@ -114,6 +114,9 @@ domain:items.gog.com
 domain:fonts.gstatic.com
 domain:www.gstatic.com
 
+# Gravatar
+domain:secure.gravatar.com
+
 # GREAT! Player
 domain:image-cdn.suggestedtv.com
 domain:static.core.one.accedo.tv
@@ -249,10 +252,19 @@ domain:rtmp.t.me
 
 # Twitch
 domain:assets.twitch.tv
+domain:chat.twitch.tv
 domain:contribute.live-video.net
 domain:ext-twitch.tv
+domain:extension-files.twitch.tv
+domain:extensions-discovery-images.twitch.tv
 domain:global-contribute.live-video.net
+domain:hls.live-video.net
+domain:media-amazon.com
+domain:panels.twitch.tv
 domain:ttvnw.net
+
+# Twitch - StreamAvatars
+domain:streamavatars.b-cdn.net
 
 # Twitter
 #domain:abs.twimg.com

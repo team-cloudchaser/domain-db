@@ -28,3 +28,7 @@ domain:www.reddit.com
 
 # Spotify
 #domain:spotify.com
+
+# Twitch
+domain:api.twitch.tv
+domain:gql.twitch.tv
