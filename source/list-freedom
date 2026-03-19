@@ -169,6 +169,12 @@ domain:images-fio.6play.fr
 domain:fusion.molotov.tv
 domain:images.molotov.tv
 
+# NHK
+domain:apps.web.nhk
+domain:g-img.nhk.jp
+domain:hls.nhkworld.jp
+domain:img.nhk.jp
+
 # NRJ
 domain:img.nrj.fr
 
