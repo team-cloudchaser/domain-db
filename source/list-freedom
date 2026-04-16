@@ -4,7 +4,6 @@
 domain:4cdn.org
 
 # Abema
-domain:glb-linear-abematv.akamaized.net
 domain:image.p-c2-x.abema-tv.com
 
 # ARD
@@ -289,8 +288,13 @@ domain:pbs.twimg.com
 domain:video.twimg.com
 
 # U-NEXT
-domain:imgc.nxtv.jp
-domain:metac.nxtv.jp
+#domain:imgc.nxtv.jp
+#domain:metac.nxtv.jp
+#domain:scene01c.nxtv.jp
+#domain:streamd01cme.nxtv.jp
+#domain:streamd01ci.nxtv.jp
+#domain:streamd02cf.nxtv.jp
+domain:nxtv.jp
 domain:video.unext.jp
 
 # WebEx

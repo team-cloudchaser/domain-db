@@ -1,7 +1,9 @@
 # Abema
-domain:abema.tv
+#domain:abema.tv
 domain:api.abema.io
+domain:ds-glb-vod-abematv.akamaized.net
 domain:gateway.p-c2-x.abema-tv.com
+domain:glb-linear-abematv.akamaized.net
 domain:p-c3-e.abema-tv.com
 
 # NHK
