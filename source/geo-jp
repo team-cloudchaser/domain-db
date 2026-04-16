@@ -13,6 +13,10 @@ domain:hsk.st.nhk
 domain:location.nhk.or.jp
 domain:location.tools.nhk
 
+# TVer
+domain:api.streaks.jp
+domain:ssai-manifest.streaks.jp
+
 # U-NEXT
 domain:ca.unext.jp
 domain:cc.unext.jp

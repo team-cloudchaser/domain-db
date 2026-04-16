@@ -265,6 +265,10 @@ domain:photos.tf1.fr
 # Telegram
 domain:rtmp.t.me
 
+# TVer
+domain:s.tver.jp
+domain:statics.tver.jp
+
 # Twitch
 domain:assets.twitch.tv
 domain:chat.twitch.tv
