@@ -3,6 +3,10 @@
 # 4chan
 domain:4cdn.org
 
+# Abema
+domain:glb-linear-abematv.akamaized.net
+domain:image.p-c2-x.abema-tv.com
+
 # ARD
 domain:kikaninchen.de
 domain:img.br.de
@@ -111,6 +115,7 @@ domain:images.gog.com
 domain:items.gog.com
 
 # Google
+domain:connectivitycheck.gstatic.com
 domain:fonts.gstatic.com
 domain:www.gstatic.com
 
@@ -282,6 +287,11 @@ domain:streamavatars.b-cdn.net
 domain:abs-0.twimg.com
 domain:pbs.twimg.com
 domain:video.twimg.com
+
+# U-NEXT
+domain:imgc.nxtv.jp
+domain:metac.nxtv.jp
+domain:video.unext.jp
 
 # WebEx
 domain:prod.infra.webex.com

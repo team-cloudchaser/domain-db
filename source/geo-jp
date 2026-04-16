@@ -1,6 +1,16 @@
+# Abema
+domain:abema.tv
+domain:api.abema.io
+domain:gateway.p-c2-x.abema-tv.com
+domain:p-c3-e.abema-tv.com
+
 # NHK
 #domain:archive.hsk.st.nhk
 #domain:simul.hsk.st.nhk
 domain:hsk.st.nhk
 domain:location.nhk.or.jp
 domain:location.tools.nhk
+
+# U-NEXT
+domain:ca.unext.jp
+domain:cc.unext.jp
