@@ -201,6 +201,9 @@ domain:cdn01.quay.io
 domain:cdn02.quay.io
 domain:cdn03.quay.io
 
+# Ookla Speedtest
+domain:prod.hosts.ooklaserver.net
+
 # Picarto
 domain:live.eu-west1.picarto.tv
 domain:live.us-west1.picarto.tv
