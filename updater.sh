@@ -27,9 +27,11 @@ curl -Lo bp-ransomware.list https://blocklistproject.github.io/Lists/alt-version
 #curl -Lo bp-redirect.list https://blocklistproject.github.io/Lists/alt-version/redirect-nl.txt
 curl -Lo bp-scam.list https://blocklistproject.github.io/Lists/alt-version/scam-nl.txt
 curl -Lo bp-tiktok.list https://blocklistproject.github.io/Lists/alt-version/tiktok-nl.txt
+curl -Lo phishing-army.list https://phishing.army/download/phishing_army_blocklist.txt
 #curl -Lo bp-tracking.list https://blocklistproject.github.io/Lists/alt-version/tracking-nl.txt
 #sed -i "s/\*./domain:/g" combinedprivacy.list
 curl -Lo domains-ir.list https://github.com/bootmortis/iran-hosted-domains/releases/latest/download/domains.txt
+curl -Lo russian-whitelist.list https://raw.githubusercontent.com/hxehex/russia-mobile-internet-whitelist/refs/heads/main/whitelist.txt
 # Validate every blocklist
 bash ../validater.sh
 # Copy lists

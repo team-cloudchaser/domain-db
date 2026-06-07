@@ -54,6 +54,9 @@ domain:ic.c4assets.com
 # CyGames
 domain:cygames.jp
 
+# DASH.js
+domain:cdn.dashjs.org
+
 # DesuArchive
 domain:desu-usergeneratedcontent.xyz
 
@@ -64,6 +67,11 @@ domain:static.deutschlandfunknova.de
 # Deutsche Welle
 domain:dwamdstream102.akamaized.net
 domain:static.dw.com
+
+# Disney CDN
+domain:cnbl-cdn.bamgrid.com
+domain:images.edge.bamgrid.com
+domain:static-assets.bamgrid.com
 
 # Discord
 domain:cdn.discordapp.com
@@ -101,6 +109,7 @@ domain:static.lefigaro.fr
 # France.tv
 domain:medias.france.tv
 domain:static.francetv.fr
+domain:www.franceinfo.fr
 
 # GitHub
 domain:raw.githubusercontent.com
@@ -128,6 +137,12 @@ domain:static.core.one.accedo.tv
 # Hooves
 domain:cdn.hooves.social
 
+# Hulu JP
+domain:images.prod.hjholdings.tv
+
+# Hulu US
+domain:assetshuluimcom-a.akamaihd.net
+
 # Imgur
 domain:cdn.lilsnack.co
 
@@ -135,6 +150,9 @@ domain:cdn.lilsnack.co
 domain:img.joyn.de
 domain:p7s1video.net
 domain:vod-prd.s.joyn.de
+
+# jsDelivr
+domain:cdn.jsdelivr.net
 
 # Linux - Alpine Linux
 domain:dl-cdn.alpinelinux.org
@@ -216,6 +234,9 @@ domain:pximg.net
 # Pony Land
 domain:api.pony.land
 
+# Popcornflix
+domain:cdn1.futuretodayinc.com
+
 # Qwant
 domain:s.qwant.com
 domain:s1.qwant.com
@@ -294,6 +315,9 @@ domain:abs-0.twimg.com
 domain:pbs.twimg.com
 domain:video.twimg.com
 
+# TypeKit
+domain:use.typekit.net
+
 # U-NEXT
 #domain:imgc.nxtv.jp
 #domain:metac.nxtv.jp
@@ -303,6 +327,9 @@ domain:video.twimg.com
 #domain:streamd02cf.nxtv.jp
 domain:nxtv.jp
 domain:video.unext.jp
+
+# unpkg
+domain:unpkg.com
 
 # WebEx
 domain:prod.infra.webex.com

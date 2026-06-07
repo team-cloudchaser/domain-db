@@ -6,6 +6,9 @@ domain:gateway.p-c2-x.abema-tv.com
 domain:glb-linear-abematv.akamaized.net
 domain:p-c3-e.abema-tv.com
 
+# Hulu JP
+domain:hulu.jp
+
 # NHK
 #domain:archive.hsk.st.nhk
 #domain:simul.hsk.st.nhk
