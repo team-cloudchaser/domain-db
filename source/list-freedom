@@ -43,6 +43,7 @@ domain:web-cdn.bsky.app
 # Known static CDNs for booru sites
 domain:cdn.ponybooru.org
 domain:derpicdn.net
+domain:tantabuscdn.net
 
 # Canal+
 domain:bran-media.canalplus.pro

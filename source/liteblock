@@ -177,6 +177,9 @@ domain:log.pinterest.com
 domain:trk.pinterest.com
 domain:widgets.pinterest.com
 
+# Pub Network
+domain:pub.network
+
 # Qihoo 360
 domain:conf.wifi.360.cn
 
