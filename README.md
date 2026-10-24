@@ -21,6 +21,8 @@ This project was pulled and forked from `v2fly/domain-list-community`, with only
 - `list-tor`: Suggested to be accessed via Tor exit nodes.
 
 ### Geoblock hints
+> Note: `gfb-*` is virtually the same as `geo-*`, except that it signals the group allows connectivity if automated routing isn't available.
+
 - `geo-at`: Geoblocked services in Austria.
 - `geo-de`: Geoblocked services in Germany.
 - `geo-fr`: Geoblocked services in France.
